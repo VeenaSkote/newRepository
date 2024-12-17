@@ -7,5 +7,7 @@ public class selenium2
 	 public void method1()
 	 {
 		System.out.println("hiiiiiiiiBYeeee"); 
+		System.out.println("hiiiiiiiiBYeeee"); 
+
 	 }
 }
