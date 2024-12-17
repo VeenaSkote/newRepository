@@ -6,6 +6,6 @@ public class selnium1
 {@Test
  public void method1()
  {
-	System.out.println("hiiiiiiii"); 
+	System.out.println("hiiiiiiii12345"); 
  }
 }
