@@ -6,6 +6,7 @@ public class selenium2
 {@Test
 	 public void method1()
 	 {
-		System.out.println("hiiiiiiiiBYeeee"); 
+		System.out.println("hiiiiiiiiBYee445666ee"); 
+		
 	 }
 }
