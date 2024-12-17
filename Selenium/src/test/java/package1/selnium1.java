@@ -7,5 +7,6 @@ public class selnium1
  public void method1()
  {
 	System.out.println("hiiiiiiii12345"); 
+	System.out.println("adsgsgh");
  }
 }
